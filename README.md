@@ -1,4 +1,4 @@
-# Ansible-practice
+# Ansible-Practice
 Ansible Labs and Practice
 
 ## How to use these Practice
