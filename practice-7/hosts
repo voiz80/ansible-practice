@@ -14,5 +14,5 @@ db01
 
 [webstack:children] 
 proxy 
-webservers 
+web 
 database
