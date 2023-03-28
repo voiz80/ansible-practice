@@ -6,7 +6,7 @@ Ansible Labs and Practice
 
 2. Install Vagrant: https://www.vagrantup.com/downloads.html
 
-3. In a new Directory copy this respository:
+3. In a new Directory copy this respository
 ``` shell
 git clone https://github.com/voiz80/ansible-practice.git
 ```
